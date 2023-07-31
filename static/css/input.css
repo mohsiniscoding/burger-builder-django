@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: CafeFrancoise;
+    src: url("fonts/cafe-francoise-d.otf") format("opentype");
+}
+
+@font-face {
+    font-family: YellowGinger;
+    src: url("fonts/yellow-ginger.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: DalekPinpointBold;
+    src: url("fonts/BonaroClean.otf") format("opentype");
+}
